@@ -1,5 +1,7 @@
 # Pet Soul Tracker — AION 2
 
+## [⬇ Download for Windows / Baixar para Windows](https://github.com/vitorTB/PET-SOUL-TRACKER-releases/releases/latest/download/PetSoulTracker-win-Setup.exe)
+
 **English** · [Português](#português)
 
 An overlay (HUD) for AION 2 that shows your **pet souls** in real time. When you log into the game, it reads your whole pet collection (just like Alt+X) and adds every soul automatically while you farm.
@@ -9,7 +11,7 @@ The app is available in **English and Portuguese**. It follows your Windows lang
 ## Install
 
 1. **Npcap:** if you don't have it yet, install it from [npcap.com](https://npcap.com/#download). Abyss DPS Meter and Shugo.GG users already have it. During setup, leave *"Restrict Npcap driver's access to Administrators only"* **unchecked**.
-2. Download **`PetSoulTracker-win-Setup.exe`** from **[Releases → Latest](https://github.com/vitorTB/PET-SOUL-TRACKER-releases/releases/latest)** and run it.
+2. **[Download `PetSoulTracker-win-Setup.exe`](https://github.com/vitorTB/PET-SOUL-TRACKER-releases/releases/latest/download/PetSoulTracker-win-Setup.exe)** and run it.
    - If you see *"Windows protected your PC"*, click **More info → Run anyway**. The app has no paid code-signing certificate.
 3. Open **Pet Soul Tracker** **before logging into the game**, then log in with your character. Your pets show up on their own.
 
@@ -40,7 +42,7 @@ O app está em **português e inglês**. Ele segue o idioma do Windows, e dá pa
 ### Instalar
 
 1. **Npcap:** se você ainda não tem, instale pelo [npcap.com](https://npcap.com/#download). Quem usa Abyss DPS Meter ou Shugo.GG já tem. Na instalação, deixe **desmarcada** a opção *"Restrict Npcap driver's access to Administrators only"*.
-2. Baixe o **`PetSoulTracker-win-Setup.exe`** em **[Releases → Latest](https://github.com/vitorTB/PET-SOUL-TRACKER-releases/releases/latest)** e execute.
+2. **[Baixe o `PetSoulTracker-win-Setup.exe`](https://github.com/vitorTB/PET-SOUL-TRACKER-releases/releases/latest/download/PetSoulTracker-win-Setup.exe)** e execute.
    - Se aparecer *"O Windows protegeu o computador"*, clique em **Mais informações → Executar assim mesmo**. O app não tem assinatura digital paga.
 3. Abra o **Pet Soul Tracker** **antes de entrar no jogo** e entre com o seu personagem. Os mascotes aparecem sozinhos.
 
